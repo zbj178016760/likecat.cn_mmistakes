@@ -19,17 +19,19 @@ subtitle: Bojun Zhang
 email: a@likecat.cn
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website under design, and I haven't decided what interesting things should be put on it. If you have any good ideas or suggestions, please be sure to let me know by email. Thank you very much for taking time to visit this unfinished website. I will continue to work hard to finish it.
-url: "https://likecat.cn/"
+baseurl:
+url: "https://likecat.cn"
 repository: "zbj178016760/likecat.cn"
 # twitter_username: username
 github_username: zbj178016760
-minimal_mistakes_skin: neon
-breadcrumbs: true
-search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: neon
+breadcrumbs: true
+search: true
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -66,33 +68,39 @@ author:
   bio: "I am a 🎓PhD candidate in the Department of Mechanical Engineering, Xi'an Jiaotong University."
   location: "Beijing, China"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-home"
+      url: "https://likecat.cn"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto://a@likecat.cn"
-    - label: "Website"
-      icon: "fas fa-fw fa-home"
-      url: "https://likecat.cn/"
-    - label: "Stable Diffusion Webui"
-      icon: "fas fa-fw fa-link"
-      url: "https://webui.likecat.cn/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbj178016760"
+    - label: "Orcid"
+      icon: "fas fa-fw fa-user-graduate"
+      url: "https://orcid.org/0000-0002-1867-0243"
+    - label: "Stable Diffusion Webui"
+      icon: "fas fa-fw fa-paint-brush"
+      url: "https://webui.likecat.cn"
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-home"
+      url: "https://likecat.cn"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto://a@likecat.cn"
-    - label: "Website"
-      icon: "fas fa-fw fa-home"
-      url: "https://likecat.cn/"
-    - label: "Stable Diffusion Webui"
-      icon: "fas fa-fw fa-link"
-      url: "https://webui.likecat.cn/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zbj178016760"
+    - label: "Orcid"
+      icon: "fas fa-fw fa-user-graduate"
+      url: "https://orcid.org/0000-0002-1867-0243"
+    - label: "Stable Diffusion Webui"
+      icon: "fas fa-fw fa-paint-brush"
+      url: "https://webui.likecat.cn"
 
 defaults:
   # _posts
