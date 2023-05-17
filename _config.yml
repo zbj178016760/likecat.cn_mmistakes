@@ -18,9 +18,10 @@ title: Likecat
 subtitle: Bojun Zhang
 email: a@likecat.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal website under design, and I haven't decided what interesting things should be put on it. If you have any good ideas or suggestions, please be sure to let me know by email. Thank you very much for taking time to visit this unfinished website. I will continue to work hard to finish it.
+  This is a personal website under design, and I haven't decided what interesting things should be put on it.
 baseurl: ""
 url: "https://likecat.cn"
+teaser: /assets/images/teaser.jpg
 repository: "zbj178016760/likecat.cn"
 # twitter_username: username
 github_username: zbj178016760
@@ -36,7 +37,6 @@ search: true
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -61,6 +61,16 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-dark" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
+
+atom_feed:
+  hide: true
 
 author:
   name: "Bojun Zhang"
