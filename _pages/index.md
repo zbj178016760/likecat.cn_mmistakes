@@ -3,9 +3,11 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#222"
+  overlay_color: ""
   actions:
-    - label: "Please Contact Me"
+    - label: "About Me"
+      url: "about"
+    - label: "Mail to Me"
       url: "mailto://a@likecat.cn"
 excerpt: >
   This is a personal website under design, and I haven't decided what interesting things should be put on it.<br />

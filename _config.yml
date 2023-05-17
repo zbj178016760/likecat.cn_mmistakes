@@ -19,7 +19,7 @@ subtitle: Bojun Zhang
 email: a@likecat.cn
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal website under design, and I haven't decided what interesting things should be put on it. If you have any good ideas or suggestions, please be sure to let me know by email. Thank you very much for taking time to visit this unfinished website. I will continue to work hard to finish it.
-baseurl:
+baseurl: ""
 url: "https://likecat.cn"
 repository: "zbj178016760/likecat.cn"
 # twitter_username: username
@@ -65,7 +65,7 @@ plugins:
 author:
   name: "Bojun Zhang"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am a 🎓PhD candidate in the Department of Mechanical Engineering, Xi'an Jiaotong University."
+  bio: "I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University."
   location: "Beijing, China"
   links:
     - label: "Website"
