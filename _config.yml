@@ -28,7 +28,7 @@ github_username: zbj178016760
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: neon # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 breadcrumbs: true
 search: true
 
@@ -65,13 +65,13 @@ plugins:
 author:
   name: "Bojun Zhang"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University."
+  bio: "PhD candidate in Mechanical Engineering, but enjoy programming."
   location: "Beijing, China"
   links:
-    - label: "Website"
+    - label: "Likecat.cn"
       icon: "fas fa-fw fa-home"
       url: "https://likecat.cn"
-    - label: "Email"
+    - label: "a@likecat.cn"
       icon: "fas fa-fw fa-envelope"
       url: "mailto://a@likecat.cn"
     - label: "GitHub"
@@ -80,16 +80,13 @@ author:
     - label: "Orcid"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://orcid.org/0000-0002-1867-0243"
-    - label: "Stable Diffusion Webui"
-      icon: "fas fa-fw fa-paint-brush"
-      url: "https://webui.likecat.cn"
 
 footer:
   links:
-    - label: "Website"
+    - label: "Likecat.cn"
       icon: "fas fa-fw fa-home"
       url: "https://likecat.cn"
-    - label: "Email"
+    - label: "a@likecat.cn"
       icon: "fas fa-fw fa-envelope"
       url: "mailto://a@likecat.cn"
     - label: "GitHub"
@@ -98,9 +95,6 @@ footer:
     - label: "Orcid"
       icon: "fas fa-fw fa-user-graduate"
       url: "https://orcid.org/0000-0002-1867-0243"
-    - label: "Stable Diffusion Webui"
-      icon: "fas fa-fw fa-paint-brush"
-      url: "https://webui.likecat.cn"
 
 defaults:
   # _posts

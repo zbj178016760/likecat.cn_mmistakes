@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "About Me"
-header:
-  overlay_color: ""
 ---
+
+![My Portrait](/assets/images/about-photo.jpg)
 
 I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University.
 
