@@ -5,8 +5,8 @@ title: "Likecat.cn"
 hidden: true
 header:
   overlay_color: ""
-  overlay_image: /assets/images/index-bar.jpg
-  overlay_filter: 0.5
+  overlay_image: https://source.unsplash.com/random?wallpapers
+  overlay_filter: 0.75
   actions:
     - label: "About Me"
       url: "about"
