@@ -5,14 +5,14 @@ title: "About Me"
 
 ![My Portrait](/assets/images/about-photo.jpg)
 
-I am a 👨‍🎓 PhD candidate in the Department of 👨‍🔧 Mechanical Engineering, 🏫 Xi'an Jiaotong University.
+Ahoy there, fellow knowledge seeker! I'm currently donning my academic armor at 🏫 Xi'an Jiaotong University, embarking on a heroic 👨‍🎓 PhD journey in the enchanted realm of 👨‍🔧 Mechanical Engineering – think of me as the Gandalf of gears and gadgets, battling the Balrog of technical challenges.
 
-I am morbidly obsessed with 📐 **_designing_** and 💻 **_programming_**, but not limited to any particular language or environment. All the interesting things are in my recipe.
+💻 Coding and 📐 designing are my dynamic duo. I'm the Shakespeare of syntax, fluent in languages like Python, JavaScript, and maybe a bit of Klingon (okay, not really). My projects are a tech feast – a byte-sized buffet of innovation, with a side of easter eggs for the adventurous.
 
-I like writing 📰 **_websites_** and 📱 **_mobile apps_**, and I'm currently learning how to 🎨 generate and process pictures with pytouch, which may become another hobby.
+Creating 📰 websites and 📱 mobile apps is my digital playground. Currently, I'm on an epic quest to morph code into art using PyTorch – imagine Da Vinci, but with pixels. 🎨✨ It's like I'm crafting spells with my keyboard, turning 1s and 0s into pure magic. Hogwarts, eat your heart out!
 
-I have no professional programming training, so my code sometimes looks amateur, but I have been improving my programming skills.
+Don't panic if my code looks like a Picasso painting. It's not a glitch; it's avant-garde programming – so cutting-edge that even my computer raises an eyebrow. 😜 It's the kind of code that leaves comments like "Is this genius or madness?" scattered throughout.
 
-Apart from programming, I spend almost all my spare time on 🎮 **_video games_**. Fortunately, it doesn't make me look fat or nerdy.
+When I'm not battling bugs, I'm conquering virtual realms in the gaming universe. My gaming chair has seen more action than a Marvel movie marathon, but fear not – my virtual six-pack is intact. No gamer stereotypes here, just a warrior with a headset and a pixelated sword.
 
-At present, I don't need anyone's sponsorship, but I am eager to make some friends to program and discuss technology together.
+Not seeking sponsorship at the moment, but I am on a quest for tech companions. Let's be coding buddies, the Bonnie and Clyde of the programming world – minus the felonies. 🚀👩‍💻 Our code will echo through the digital ages! 💾🌌 Grab your keyboard, and let's write the next chapter of our digital saga!
