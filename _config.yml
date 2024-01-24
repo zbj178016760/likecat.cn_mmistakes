@@ -18,7 +18,7 @@ title: Likecat
 subtitle: Bojun Zhang
 email: a@likecat.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a personal website under design, and I haven't decided what interesting things should be put on it.
+  🚀 Crafting my digital haven! This website is like a blank canvas, and I'm still deciding which fun nuggets to sprinkle on it. Brace for impact – fun stuff incoming! 💻✨
 baseurl: ""
 url: "https://likecat.cn"
 teaser: /assets/images/teaser.jpg
@@ -75,7 +75,7 @@ atom_feed:
 author:
   name: "Bojun Zhang"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "PhD candidate in Mechanical Engineering, but enjoy programming."
+  bio: "Mechanical PhD candidate, tackling gears by day, moonlighting as a code wizard and UI designer by night. 🚀💻✨"
   location: "Beijing, China"
   links:
     - label: "Likecat.cn"
